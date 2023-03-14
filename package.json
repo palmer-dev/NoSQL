@@ -1,0 +1,15 @@
+{
+  "name": "projet",
+  "version": "1.0.0",
+  "description": "Projet fait en cours",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "REY Florian",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongodb": "^5.1.0"
+  }
+}
